@@ -51,7 +51,7 @@
         "morgan": "^1.10.0",
         "node-fetch": "^2.6.7",
         "openapi-typescript-fetch": "^1.1.2",
-        "swagger-ui-express": "^4.3.0",
+        "swagger-ui-express": "^4.6.2",
         "tsoa": "^3.14.1"
     }
 }
